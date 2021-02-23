@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data, images, and models from source control by default
+/data/
+/images/
+/models/
